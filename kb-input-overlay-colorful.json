@@ -1,0 +1,218 @@
+{
+    "default_width": 157,
+    "default_height": 128,
+    "space_h": -20,
+    "space_v": 5,
+    "flags": 0,
+    "overlay_width": 532,
+    "overlay_height": 316,
+    "elements": [
+        {
+            "type": 0,
+            "pos": [
+                432,
+                0
+            ],
+            "id": "texture12",
+            "z_level": 0,
+            "mapping": [
+                541,
+                204,
+                100,
+                100
+            ]
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                0
+            ],
+            "id": "ESC",
+            "z_level": 1,
+            "mapping": [
+                1,
+                1,
+                100,
+                46
+            ],
+            "code": 1
+        },
+        {
+            "type": 1,
+            "pos": [
+                108,
+                0
+            ],
+            "id": "W",
+            "z_level": 1,
+            "mapping": [
+                109,
+                1,
+                100,
+                100
+            ],
+            "code": 17
+        },
+        {
+            "type": 1,
+            "pos": [
+                216,
+                0
+            ],
+            "id": "X",
+            "z_level": 1,
+            "mapping": [
+                325,
+                1,
+                100,
+                100
+            ],
+            "code": 45
+        },
+        {
+            "type": 1,
+            "pos": [
+                324,
+                0
+            ],
+            "id": "F8",
+            "z_level": 1,
+            "mapping": [
+                433,
+                1,
+                100,
+                100
+            ],
+            "code": 46
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                54
+            ],
+            "id": "~",
+            "z_level": 1,
+            "mapping": [
+                541,
+                1,
+                100,
+                46
+            ],
+            "code": 41
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                108
+            ],
+            "id": "A",
+            "z_level": 1,
+            "mapping": [
+                1,
+                204,
+                100,
+                100
+            ],
+            "code": 30
+        },
+        {
+            "type": 1,
+            "pos": [
+                108,
+                108
+            ],
+            "id": "S",
+            "z_level": 1,
+            "mapping": [
+                109,
+                204,
+                100,
+                100
+            ],
+            "code": 31
+        },
+        {
+            "type": 1,
+            "pos": [
+                216,
+                108
+            ],
+            "id": "D",
+            "z_level": 1,
+            "mapping": [
+                217,
+                204,
+                100,
+                100
+            ],
+            "code": 32
+        },
+        {
+            "type": 1,
+            "pos": [
+                324,
+                108
+            ],
+            "id": "J",
+            "z_level": 1,
+            "mapping": [
+                325,
+                204,
+                100,
+                100
+            ],
+            "code": 36
+        },
+        {
+            "type": 1,
+            "pos": [
+                432,
+                108
+            ],
+            "id": "keyboard button10",
+            "z_level": 1,
+            "mapping": [
+                433,
+                204,
+                100,
+                100
+            ],
+            "code": 37
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                216
+            ],
+            "id": "SPACE",
+            "z_level": 1,
+            "mapping": [
+                1,
+                407,
+                316,
+                100
+            ],
+            "code": 57
+        },
+        {
+            "type": 1,
+            "pos": [
+                324,
+                216
+            ],
+            "id": "N",
+            "z_level": 1,
+            "mapping": [
+                325,
+                407,
+                208,
+                100
+            ],
+            "code": 49
+        }
+    ]
+}
