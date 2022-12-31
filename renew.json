@@ -1,0 +1,298 @@
+{
+    "default_width": 0,
+    "default_height": 0,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 0,
+    "overlay_width": 1215,
+    "overlay_height": 606,
+    "elements": [
+        {
+            "type": 1,
+            "pos": [
+                0,
+                0
+            ],
+            "id": "Esc",
+            "z_level": "0",
+            "mapping": [
+                3248,
+                0,
+                200,
+                200
+            ],
+            "code": 1
+        },
+        {
+            "type": 1,
+            "pos": [
+                203,
+                0
+            ],
+            "id": "up",
+            "z_level": 0,
+            "mapping": [
+                406,
+                0,
+                200,
+                200
+            ],
+            "code": 17
+        },
+        {
+            "type": 1,
+            "pos": [
+                406,
+                0
+            ],
+            "id": "keyboard button2",
+            "z_level": "0",
+            "mapping": [
+                2436,
+                0,
+                200,
+                200
+            ],
+            "code": 33
+        },
+        {
+            "type": 1,
+            "pos": [
+                609,
+                0
+            ],
+            "id": "r",
+            "z_level": 0,
+            "mapping": [
+                3045,
+                0,
+                200,
+                200
+            ],
+            "code": 19
+        },
+        {
+            "type": 1,
+            "pos": [
+                812,
+                0
+            ],
+            "id": "u",
+            "z_level": "0",
+            "mapping": [
+                1827,
+                0,
+                200,
+                200
+            ],
+            "code": 22
+        },
+        {
+            "type": 1,
+            "pos": [
+                1015,
+                0
+            ],
+            "id": "i",
+            "z_level": "0",
+            "mapping": [
+                2030,
+                0,
+                200,
+                200
+            ],
+            "code": 23
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                203
+            ],
+            "id": "a",
+            "z_level": "0",
+            "mapping": [
+                0,
+                0,
+                200,
+                200
+            ],
+            "code": 30
+        },
+        {
+            "type": 1,
+            "pos": [
+                203,
+                203
+            ],
+            "id": "down",
+            "z_level": 0,
+            "mapping": [
+                609,
+                0,
+                200,
+                200
+            ],
+            "code": 31
+        },
+        {
+            "type": 1,
+            "pos": [
+                406,
+                203
+            ],
+            "id": "f",
+            "z_level": 0,
+            "mapping": [
+                203,
+                0,
+                200,
+                200
+            ],
+            "code": 32
+        },
+        {
+            "type": 1,
+            "pos": [
+                609,
+                203
+            ],
+            "id": "keyboard button9",
+            "z_level": "0",
+            "mapping": [
+                2233,
+                0,
+                200,
+                200
+            ],
+            "code": 35
+        },
+        {
+            "type": 1,
+            "pos": [
+                812,
+                203
+            ],
+            "id": "j",
+            "z_level": "0",
+            "mapping": [
+                1015,
+                0,
+                200,
+                200
+            ],
+            "code": 36
+        },
+        {
+            "type": 1,
+            "pos": [
+                1015,
+                203
+            ],
+            "id": "keyboard button11",
+            "z_level": "0",
+            "mapping": [
+                812,
+                0,
+                200,
+                200
+            ],
+            "code": 37
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                406
+            ],
+            "id": " ",
+            "z_level": "0",
+            "mapping": [
+                1218,
+                0,
+                200,
+                200
+            ],
+            "code": 57
+        },
+        {
+            "type": 1,
+            "pos": [
+                203,
+                406
+            ],
+            "id": "m",
+            "z_level": "0",
+            "mapping": [
+                1421,
+                0,
+                200,
+                200
+            ],
+            "code": 50
+        },
+        {
+            "type": 1,
+            "pos": [
+                406,
+                406
+            ],
+            "id": "x",
+            "z_level": "0",
+            "mapping": [
+                2639,
+                0,
+                200,
+                200
+            ],
+            "code": 45
+        },
+        {
+            "type": 1,
+            "pos": [
+                609,
+                406
+            ],
+            "id": "c",
+            "z_level": "0",
+            "mapping": [
+                2842,
+                0,
+                200,
+                200
+            ],
+            "code": 46
+        },
+        {
+            "type": 1,
+            "pos": [
+                812,
+                406
+            ],
+            "id": "n",
+            "z_level": "0",
+            "mapping": [
+                1624,
+                0,
+                200,
+                200
+            ],
+            "code": 49
+        },
+        {
+            "type": 0,
+            "pos": [
+                1015,
+                406
+            ],
+            "id": "avatar",
+            "z_level": "0",
+            "mapping": [
+                3451,
+                0,
+                200,
+                200
+            ]
+        }
+    ]
+}
